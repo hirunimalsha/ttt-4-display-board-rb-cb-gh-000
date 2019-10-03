@@ -1,14 +1,14 @@
 # Define display_board that accepts a board and prints
-  board = [" "," "," "," ",""," "," "," "," "]
+  board = [" "," "," "," ","X"," "," "," "," "]
 def display_board(board)
-   #{board[2]}
+
 
 
 
 
   puts "   |   |   "
   puts "-----------"
-  puts "   |   |   "
+  puts "   | #{board[4]} |   "
   puts "-----------"
   puts "   |   |   "
 
