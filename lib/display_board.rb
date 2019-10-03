@@ -1,5 +1,5 @@
 # Define display_board that accepts a board and prints
-  board = ["X"," "," "," ","X"," ","","","X"]
+  board = ["O"," "," "," ","O"," ","","","O"]
 def display_board(board)
 
 
